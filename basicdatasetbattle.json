@@ -93,7 +93,7 @@
       "year": "1948",
       "war": "Chinese Civil War",
       "location": "Changchun, China",
-      "coordinates": [125.3235, 43.8171],
+      "coordinates": [43.88, 125.32278],
       "death_toll": 425000
     },
     {
@@ -101,7 +101,7 @@
       "year": "1944–1945",
       "war": "World War II",
       "location": "Budapest, Hungary",
-      "coordinates": [19.0402, 47.4979],
+      "coordinates": [47.4979, 19.0402],
       "death_toll": 422000
     },
     {
@@ -109,7 +109,7 @@
       "year": "87–86 BC",
       "war": "Mithridatic Wars (First Mithridatic War)",
       "location": "Athens and Piraeus, Greece",
-      "coordinates": [23.7275, 37.9838],
+      "coordinates": [37.983810, 23.727539],
       "death_toll": 400000
     },
     {
@@ -117,7 +117,7 @@
       "year": "1871",
       "war": "Franco-Prussian War",
       "location": "Paris, France",
-      "coordinates": [2.3522, 48.8566],
+      "coordinates": [48.8566, 2.3522],
       "death_toll": 332142
     },
     {
@@ -125,7 +125,7 @@
       "year": "1471",
       "war": "Champa–Đại Việt War (1471)",
       "location": "Vijaya, Vietnam",
-      "coordinates": [108.2248, 14.0583],
+      "coordinates": [13.92869, 109.07507],
       "death_toll": 300000
     },
     {
@@ -133,7 +133,7 @@
       "year": "1914",
       "war": "World War I",
       "location": "Przemyśl, Poland",
-      "coordinates": [22.7805, 49.7834],
+      "coordinates": [49.7823, 22.7744],
       "death_toll": 253000
     },
     {
@@ -141,7 +141,7 @@
       "year": "1945",
       "war": "World War II",
       "location": "Okinawa, Japan",
-      "coordinates": [127.7615, 26.3961],
+      "coordinates": [26.3344, 127.8056],
       "death_toll": 240000
     },
     {
@@ -149,7 +149,7 @@
       "year": "1521",
       "war": "Spanish conquest of the Aztec Empire",
       "location": "Tenochtitlan, Mexico",
-      "coordinates": [-99.1332, 19.4326],
+      "coordinates": [19.433333, -99.133333],
       "death_toll": 240000
     },
     {
@@ -157,7 +157,7 @@
       "year": "1941–1942",
       "war": "World War II",
       "location": "Sevastopol, Ukraine",
-      "coordinates": [33.5138, 44.9074],
+      "coordinates": [44.605, 33.5225],
       "death_toll": 236437
     },
     {
@@ -165,15 +165,15 @@
       "year": "1854–1855",
       "war": "Crimean War",
       "location": "Sevastopol, Ukraine",
-      "coordinates": [33.5138, 44.9074],
+      "coordinates": [44.605, 33.5225],
       "death_toll": 230000
     },
     {
       "name": "Battle of the Bulge",
       "year": "1944–1945",
       "war": "World War II",
-      "location": null,
-      "coordinates": [null, null],
+      "location": "Belgium and Luxemberg",
+      "coordinates": [50.004167, 5.72],
       "death_toll": 218900
     },
     {
@@ -181,7 +181,7 @@
       "year": "1937",
       "war": "World War II",
       "location": "Xinkou, China",
-      "coordinates": [111.6621, 37.6027],
+      "coordinates": [38, 112],
       "death_toll": 200000
     },
 	{
@@ -189,7 +189,7 @@
       "year": "52 BC",
       "war": "Gallic Wars",
       "location": "Alesia, France",
-      "coordinates": [4.5236, 47.5249],
+      "coordinates": [47.537, 4.5],
       "death_toll": 200000
     },
     {
@@ -197,7 +197,7 @@
       "year": "1944",
       "war": "World War II",
       "location": "Warsaw, Poland",
-      "coordinates": [21.0118, 52.2297],
+      "coordinates": [52.23, 21.011111],
       "death_toll": 200000
     },
     {
@@ -205,7 +205,7 @@
       "year": "717–718",
       "war": "Arab–Byzantine wars",
       "location": "Istanbul, Turkey",
-      "coordinates": [28.9784, 41.0082],
+      "coordinates": [41.0125, 28.98],
       "death_toll": 170000
     },
     {
@@ -213,7 +213,7 @@
       "year": "2022–2023",
       "war": "Russian Invasion of Ukraine",
       "location": "Bakhmut, Ukraine",
-      "coordinates": [36.8656, 48.5790],
+      "coordinates": [48.594722, 38.000833],
       "death_toll": 165600
     },
     {
@@ -221,7 +221,7 @@
       "year": "1700",
       "war": "Hill States-Sikh Wars",
       "location": "Anandpur, India",
-      "coordinates": [76.5782, 31.2200],
+      "coordinates": [31.234961, 76.498808],
       "death_toll": 150000
     },
     {
@@ -229,7 +229,7 @@
       "year": "1648–1669",
       "war": "Cretan War",
       "location": "Heraklion, Greece",
-      "coordinates": [25.1444, 35.3278],
+      "coordinates": [35.333333, 25.133333],
       "death_toll": 149739
     },
     {
@@ -237,7 +237,7 @@
       "year": "1076",
       "war": "Lý-Song War",
       "location": "Yongzhou, China",
-      "coordinates": [111.6181, 26.4207],
+      "coordinates": [26.42, 111.613],
       "death_toll": 140000
     },
     {
@@ -245,7 +245,7 @@
       "year": "1941",
       "war": "World War II",
       "location": "Odessa, Ukraine",
-      "coordinates": [30.7130, 46.4825],
+      "coordinates": [46.4825, 30.7130],
       "death_toll": 133813
     },
     {
@@ -253,7 +253,7 @@
       "year": "1937",
       "war": "World War II",
       "location": "Taiyuan, China",
-      "coordinates": [112.5489, 37.8706],
+      "coordinates": [37.8704, 112.5497],
       "death_toll": 130000
     },
     {
@@ -261,7 +261,7 @@
       "year": "1941",
       "war": "World War II",
       "location": "Shanxi, China",
-      "coordinates": [112.7277, 37.2426],
+      "coordinates": [37.7, 112.4],
       "death_toll": 120000
     },
     {
@@ -269,7 +269,7 @@
       "year": "1943",
       "war": "World War II",
       "location": "Hubei, China",
-      "coordinates": [108.7881, 30.0573],
+      "coordinates": [29.155556, 112.245278],
       "death_toll": 115830
     },
     {
@@ -277,7 +277,7 @@
       "year": "1601–1604",
       "war": "Eighty Years' War",
       "location": "Ostend, Belgium",
-      "coordinates": [2.9237, 51.2224],
+      "coordinates": [51.233333, 2.916667],
       "death_toll": 115000
     },
     {
@@ -285,7 +285,7 @@
       "year": "1943",
       "war": "World War II",
       "location": "Changde, China",
-      "coordinates": [111.6985, 29.0384],
+      "coordinates": [29.031, 111.699],
       "death_toll": 100000
     },
     {
@@ -293,7 +293,7 @@
       "year": "1904–1905",
       "war": "Russo-Japanese War",
       "location": "Port Arthur, China",
-      "coordinates": [121.8566, 39.0150],
+      "coordinates": [38.8125, 121.241667],
       "death_toll": 100000
     },
     {
@@ -301,7 +301,7 @@
       "year": "1864",
       "war": "Taiping Rebellion",
       "location": "Nanjing, China",
-      "coordinates": [118.7969, 32.0603],
+      "coordinates": [32.060833, 118.778889],
       "death_toll": 100000
     },
     {
@@ -309,7 +309,7 @@
       "year": "626",
       "war": "Sasanian–Byzantine wars",
       "location": "Istanbul, Turkey",
-      "coordinates": [28.9784, 41.0082],
+      "coordinates": [41.0125, 28.98],
       "death_toll": 95000
     },
 	{
@@ -317,7 +317,7 @@
       "year": "1912–1913",
       "war": "First Balkan War",
       "location": "Edirne, Turkey",
-      "coordinates": [26.5594, 41.6764],
+      "coordinates": [41.676944, 26.555556],
       "death_toll": 93282
     },
     {
@@ -325,7 +325,7 @@
       "year": "1099",
       "war": "First Crusade",
       "location": "Jerusalem, Israel",
-      "coordinates": [35.2137, 31.7717],
+      "coordinates": [31.778056, 35.235833],
       "death_toll": 90000
     },
     {
@@ -333,7 +333,7 @@
       "year": "1099-1102",
       "war": "First Crusade",
       "location": "Tripoli, Lebanon",
-      "coordinates": [35.8434, 34.4321],
+      "coordinates": [34.436667, 35.834444],
       "death_toll": 90000
     },
     {
@@ -341,7 +341,7 @@
       "year": "1940",
       "war": "World War II",
       "location": "Dunkirk, France",
-      "coordinates": [2.3759, 51.0504],
+      "coordinates": [51.0383, 2.3775],
       "death_toll": 88000
     },
     {
@@ -349,7 +349,7 @@
       "year": "2022",
       "war": "Russian Invasion of Ukraine",
       "location": "Mariupol, Ukraine",
-      "coordinates": [37.5361, 47.0971],
+      "coordinates": [47.095833, 37.549444],
       "death_toll": 85200
     },
     {
@@ -357,7 +357,7 @@
       "year": "1987",
       "war": "Iran–Iraq War",
       "location": "Basra, Iraq",
-      "coordinates": [47.8136, 30.5124],
+      "coordinates": [30.515, 47.81],
       "death_toll": 85000
     },
     {
@@ -365,7 +365,7 @@
       "year": "1942",
       "war": "World War II",
       "location": "Changsha, China",
-      "coordinates": [112.9388, 28.2282],
+      "coordinates": [28.228, 112.939],
       "death_toll": 84862
     },
     {
@@ -373,7 +373,7 @@
       "year": "1939",
       "war": "World War II",
       "location": "Changsha, China",
-      "coordinates": [112.9388, 28.2282],
+      "coordinates": [28.228, 112.939],
       "death_toll": 80000
     },
     {
@@ -381,7 +381,7 @@
       "year": "1939",
       "war": "World War II",
       "location": "Nanchang, China",
-      "coordinates": [115.8581, 28.6835],
+      "coordinates": [28.6835, 115.8581],
       "death_toll": 75328
     },
     {
@@ -389,7 +389,7 @@
       "year": "1877",
       "war": "Russo-Turkish War (1877–1878)",
       "location": "Pleven, Bulgaria",
-      "coordinates": [24.6114, 43.4158],
+      "coordinates": [43.4158, 24.6114],
       "death_toll": 75000
     },
     {
@@ -397,7 +397,7 @@
       "year": "1097-1099",
       "war": "First Crusade",
       "location": "Antakya, Turkey",
-      "coordinates": [36.2026, 36.1605],
+      "coordinates": [36.1605, 36.2026],
       "death_toll": 74000
     },
     {
@@ -405,7 +405,7 @@
       "year": "960-961",
       "war": "Arab–Byzantine wars",
       "location": "Heraklion, Greece",
-      "coordinates": [25.1444, 35.3278],
+      "coordinates": [35.340278, 25.134444],
       "death_toll": 74000
     },
     {
@@ -413,7 +413,7 @@
       "year": "2016–2017",
       "war": "War in Iraq (2013–2017)",
       "location": "Mosul, Iraq",
-      "coordinates": [43.1566, 36.3566],
+      "coordinates": [36.34, 43.13],
       "death_toll": 71355
     },
     {
@@ -421,7 +421,7 @@
       "year": "1864–1865",
       "war": "American Civil War",
       "location": "Petersburg, Virginia, USA",
-      "coordinates": [-77.4006, 37.2270],
+      "coordinates": [37.21295, -77.400417],
       "death_toll": 70000
     },
     {
@@ -429,7 +429,7 @@
       "year": "1808–1809",
       "war": "Peninsular War",
       "location": "Zaragoza, Spain",
-      "coordinates": [-0.8784, 41.6488],
+      "coordinates": [41.65, -0.883333],
       "death_toll": 64000
     },
 	{
@@ -437,7 +437,7 @@
       "year": "1345-1347",
       "war": "Genoese–Mongol Wars",
       "location": "Caffa, Crimea",
-      "coordinates": [33.5146, 44.6099],
+      "coordinates": [45.034167, 35.379167],
       "death_toll": 60000
     },
     {
@@ -445,7 +445,7 @@
       "year": "1914",
       "war": "World War I",
       "location": "Antwerp, Belgium",
-      "coordinates": [4.4026, 51.2195],
+      "coordinates": [51.217778, 4.400278],
       "death_toll": 58000
     },
     {
@@ -453,7 +453,7 @@
       "year": "1453",
       "war": "Byzantine–Ottoman Wars",
       "location": "Istanbul, Turkey",
-      "coordinates": [28.9784, 41.0082],
+      "coordinates": [41.0082, 28.9784],
       "death_toll": 54000
     },
     {
@@ -461,7 +461,7 @@
       "year": "1796–1797",
       "war": "War of the First Coalition",
       "location": "Mantua, Italy",
-      "coordinates": [10.7969, 45.1569],
+      "coordinates": [45.1569, 10.7969],
       "death_toll": 51000
     },
     {
@@ -469,7 +469,7 @@
       "year": "1863",
       "war": "American Civil War",
       "location": "Gettysburg, Pennsylvania, USA",
-      "coordinates": [-77.2375, 39.8138],
+      "coordinates": [39.8138, -77.2375],
       "death_toll": 50000
     },
     {
@@ -477,7 +477,7 @@
       "year": "1915-1916",
       "war": "World War I",
       "location": "Kut-al-Amara, Iraq",
-      "coordinates": [45.8208, 32.4964],
+      "coordinates": [32.4964, 45.8208],
       "death_toll": 50000
     },
     {
@@ -485,7 +485,7 @@
       "year": "2012–2016",
       "war": "Syrian Civil War",
       "location": "Aleppo, Syria",
-      "coordinates": [37.1651, 36.7318],
+      "coordinates": [36.7318, 37.1651],
       "death_toll": 45000
     },
     {
@@ -493,7 +493,7 @@
       "year": "1098",
       "war": "First Crusade",
       "location": "Ma'arrat al-Nu'man, Syria",
-      "coordinates": [36.6678, 35.7985],
+      "coordinates": [35.7985, 36.6678],
       "death_toll": 45000
     },
     {
@@ -501,7 +501,7 @@
       "year": "1567–1568",
       "war": "Mughal-Rajput Wars (1558–1576)",
       "location": "Chittorgarh, India",
-      "coordinates": [74.8738, 24.8798],
+      "coordinates": [24.88, 74.63],
       "death_toll": 40000
     },
     {
@@ -509,7 +509,7 @@
       "year": "213-212 BC",
       "war": "Second Punic War",
       "location": "Syracuse, Italy",
-      "coordinates": [15.2811, 37.0662],
+      "coordinates": [37.0662, 15.2811],
       "death_toll": 40000
     },
     {
@@ -517,7 +517,7 @@
       "year": "332 BC",
       "war": "Wars of Alexander the Great",
       "location": "Tyre, Lebanon",
-      "coordinates": [35.2122, 32.9336],
+      "coordinates": [33.270833, 35.196111],
       "death_toll": 39000
     },
     {
@@ -525,7 +525,7 @@
       "year": "1601",
       "war": "Long Turkish War",
       "location": "Szigetvár, Hungary",
-      "coordinates": [17.8058, 46.0679],
+      "coordinates": [46.0475, 17.799444],
       "death_toll": 37000
     },
     {
@@ -533,7 +533,7 @@
       "year": "1863",
       "war": "American Civil War",
       "location": "Vicksburg, Mississippi, USA",
-      "coordinates": [-90.8779, 32.3526],
+      "coordinates": [32.336111, -90.875278],
       "death_toll": 36000
     },
     {
@@ -541,7 +541,7 @@
       "year": "1627-1628",
       "war": "Huguenot Rebellions",
       "location": "La Rochelle, France",
-      "coordinates": [-1.1532, 46.1603],
+      "coordinates": [46.1603, -1.1532],
       "death_toll": 35000
     },
     {
@@ -549,7 +549,7 @@
       "year": "1994–1995",
       "war": "First Chechen War",
       "location": "Grozny, Russia",
-      "coordinates": [45.6788, 43.3172],
+      "coordinates": [43.3125, 45.698611],
       "death_toll": 33192
     },
     {
@@ -557,7 +557,7 @@
       "year": "1566",
       "war": "Ottoman Wars in Europe",
       "location": "Szigetvár, Hungary",
-      "coordinates": [17.8058, 46.0679],
+      "coordinates": [46.0475, 17.799444],
       "death_toll": 33000
     },
     {
@@ -565,7 +565,7 @@
       "year": "1631",
       "war": "Thirty Years' War",
       "location": "Magdeburg, Germany",
-      "coordinates": [11.6362, 52.1205],
+      "coordinates": [52.131667, 11.639167],
       "death_toll": 30000
     },
     {
@@ -573,7 +573,7 @@
       "year": "1220",
       "war": "Mongol Conquest of the Khwarazmian Empire",
       "location": "Bukhara, Uzbekistan",
-      "coordinates": [64.5853, 39.7681],
+      "coordinates": [39.766667, 64.423056],
       "death_toll": 30000
     },
 	{
@@ -581,7 +581,7 @@
       "year": "1914",
       "war": "World War I",
       "location": "Liege, Belgium",
-      "coordinates": [5.5675, 50.6326],
+      "coordinates": [50.639722, 5.570556],
       "death_toll": 25300
     },
     {
@@ -589,7 +589,7 @@
       "year": "1793",
       "war": "War of the First Coalition",
       "location": "Toulon, France",
-      "coordinates": [5.928, 43.1242],
+      "coordinates": [43.125833, 5.930556],
       "death_toll": 21400
     },
     {
@@ -597,7 +597,7 @@
       "year": "1291",
       "war": "Fall of Outremer",
       "location": "Acre, Israel",
-      "coordinates": [35.0766, 32.9222],
+      "coordinates": [32.9222, 35.0766],
       "death_toll": 20000
     },
     {
@@ -605,7 +605,7 @@
       "year": "1941",
       "war": "World War II",
       "location": "Tobruk, Libya",
-      "coordinates": [23.9769, 31.8928],
+      "coordinates": [32.076111, 23.961389],
       "death_toll": 18600
     },
     {
@@ -613,7 +613,7 @@
       "year": "1807",
       "war": "War of the Fourth Coalition",
       "location": "Gdansk, Poland",
-      "coordinates": [18.6466, 54.3520],
+      "coordinates": [54.3475, 18.645278],
       "death_toll": 17900
     },
     {
@@ -621,7 +621,7 @@
       "year": "1632",
       "war": "Eighty Years' War",
       "location": "Maastricht, Netherlands",
-      "coordinates": [5.6889, 50.8514],
+      "coordinates": [50.85, 5.683333],
       "death_toll": 14000
     },
     {
@@ -629,7 +629,7 @@
       "year": "332 BC",
       "war": "Wars of Alexander the Great",
       "location": "Gaza, Palestine",
-      "coordinates": [34.4747, 31.5],
+      "coordinates": [31.516667, 34.45],
       "death_toll": 14000
     }
   ]
