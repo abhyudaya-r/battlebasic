@@ -5,7 +5,7 @@
       "year": "1941–1944",
       "war": "World War II",
       "location": "Saint Petersburg, Russia",
-      "coordinates": [30.3351, 59.9343],
+      "coordinates": [59.9311, 30.3609],
       "death_toll": 5500000
     },
     {
@@ -13,7 +13,7 @@
       "year": "1942–1943",
       "war": "World War II",
       "location": "Volgograd, Russia",
-      "coordinates": [44.5180, 48.7194],
+      "coordinates": [48.7080, 44.5133],
       "death_toll": 3200000
     },
     {
@@ -21,7 +21,7 @@
       "year": "1258",
       "war": "Mongol invasions and conquests",
       "location": "Baghdad, Iraq",
-      "coordinates": [44.3661, 33.3152],
+      "coordinates": [33.3152, 44.3661],
       "death_toll": 2000000
     },
     {
@@ -29,7 +29,7 @@
       "year": "1945",
       "war": "World War II",
       "location": "Berlin, Germany",
-      "coordinates": [13.4050, 52.5200],
+      "coordinates": [52.5200, 13.4050],
       "death_toll": 1286367
     },
     {
@@ -37,15 +37,15 @@
       "year": "1221",
       "war": "Mongol conquest of the Khwarazmian Empire",
       "location": "Konye-Urgench, Turkmenistan",
-      "coordinates": [42.3153, 59.1538],
+      "coordinates": [42.3242, 59.1819],
       "death_toll": 1200000
     },
     {
-      "name": "Battle of Kiev",
+      "name": "Battle of Kyiv",
       "year": "1941",
       "war": "World War II",
       "location": "Kyiv, Ukraine",
-      "coordinates": [30.5238, 50.4501],
+      "coordinates": [50.4504, 30.5245],
       "death_toll": 761783
     },
     {
@@ -53,7 +53,7 @@
       "year": "1942",
       "war": "World War II",
       "location": "Voronezh, Russia",
-      "coordinates": [39.1692, 51.6755],
+      "coordinates": [51.6683, 39.1919],
       "death_toll": 662847
     },
     {
@@ -61,7 +61,7 @@
       "year": "1945",
       "war": "World War II",
       "location": "Manila, Philippines",
-      "coordinates": [120.9842, 14.5995],
+      "coordinates": [14.5995, 120.9842],
       "death_toll": 500000
     },
     {
@@ -69,7 +69,7 @@
       "year": "1614-1615",
       "war": "Edo Period",
       "location": "Osaka, Japan",
-      "coordinates": [135.5022, 34.6937],
+      "coordinates": [34.6937, 135.5023],
       "death_toll": 500000
     },
     {
@@ -77,7 +77,7 @@
       "year": "149-146 BC",
       "war": "Third Punic War",
       "location": "Carthage, Tunisia",
-      "coordinates": [10.3157, 36.8065],
+      "coordinates": [36.8626, 10.3329],
       "death_toll": 450000
     },
 	{
@@ -85,7 +85,7 @@
       "year": "1937",
       "war": "World War II",
       "location": "Shanghai, China",
-      "coordinates": [121.4737, 31.2304],
+      "coordinates": [31.2304, 121.4737],
       "death_toll": 426140
     },
     {
